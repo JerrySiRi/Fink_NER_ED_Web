@@ -1,4 +1,4 @@
-# BERT-BiLSTM-CRF模型
+# 实体识别模型：BERT(wwm)-BiLSTM-CRF 实体消歧模型：Jaro_distance-Embedding match
 
 ### 运行环境
 
