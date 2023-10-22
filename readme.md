@@ -2,7 +2,7 @@
 # 实体识别模型：BERT(wwm)-BiLSTM-CRF 
 # 实体消歧模型：Jaro_distance-Embedding match
 
-### 运行环境
+### 1. 运行环境
 
 ```
 python == 3.7.4
@@ -15,7 +15,7 @@ nltk == 3.7
 
 ```
 
-### 初始大模型及fine-tunned模型下载
+### 2. 初始大模型及fine-tunned模型下载
 #### initial model：
 **下载后请放在bert-base-chinese文件夹中，改名为pytorch_model**
 
@@ -27,7 +27,7 @@ nltk == 3.7
 链接：https://pan.baidu.com/s/1iRLgOb6V9Qmx6tMURZRExw?pwd=18ez 
 提取码：18ez
 
-### 运行方式
+### 3. 运行方式
 请不要移动相关文件位置，在各文档读取过程中均使用相对路径
 若使用vscode出现路径报错问题，请修改部分相对路径或使用pycharm运行
 
@@ -48,7 +48,7 @@ nltk == 3.7
    （final_result_test_output.xlsx为已处理好的测试集结果）
 
     
-### 网页展示
+### 4. 网页展示
 1. 请运行Flask_Web中的api.py，复制终端给出的网址到浏览器中即可呈现页面
 
 tip：可能会出现卡顿，必要时可以连接vpn
