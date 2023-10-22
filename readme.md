@@ -22,7 +22,7 @@ nltk == 3.7
 链接：https://pan.baidu.com/s/1WRvzm8UitfvnArDU-DNGQQ?pwd=4fn0 
 提取码：4fn0
 ####  fine-tunned model：
-**下载后请放在ouput文件夹中，改名为pytorch_model。如若想重新训练，请在命令行中运行上述命令，或import subprocess在IDE中运行**
+**下载后请放在ouput文件夹中，改名为pytorch_model。如若想重新训练，请在命令行中运行下面提及的命令，或import subprocess在IDE中运行**
 
 链接：https://pan.baidu.com/s/1iRLgOb6V9Qmx6tMURZRExw?pwd=18ez 
 提取码：18ez
