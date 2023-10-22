@@ -31,6 +31,7 @@ nltk == 3.7
 请不要移动相关文件位置，在各文档读取过程中均使用相对路径
 若使用vscode出现路径报错问题，请修改部分相对路径或使用pycharm运行
 
+
 **final_result_test_output.xlsx为存放了测试集的识别+消歧的最终结果**
 
 1. 请先运行dataprocess.py，获取训练集预处理过BIO标注的文件，并划分70%训练集和30%验证集。dev.txt和train.txt存放在processed_data中
