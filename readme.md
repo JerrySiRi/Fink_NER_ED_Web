@@ -1,4 +1,6 @@
-# 实体识别模型：BERT(wwm)-BiLSTM-CRF 实体消歧模型：Jaro_distance-Embedding match
+# 南京大学“AI+”大学生创新技能挑战赛
+# 实体识别模型：BERT(wwm)-BiLSTM-CRF 
+# 实体消歧模型：Jaro_distance-Embedding match
 
 ### 运行环境
 
@@ -38,3 +40,9 @@ nltk == 3.7
 1. 请运行Flask_Web中的api.py，复制终端给出的网址到浏览器中即可呈现页面
 
 tip：可能会出现卡顿，必要时可以连接vpn
+
+
+### 初始大模型及fine-tunned模型下载
+initial model：
+fine-tunned model：
+
