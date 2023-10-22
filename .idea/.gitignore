@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+Flink/output/pytorch_model.bin
+Flink/bert-base-chinese/pytorch_model.bin
