@@ -15,6 +15,14 @@ nltk == 3.7
 
 ```
 
+### 初始大模型及fine-tunned模型下载
+> initial model：下载后请放在bert-base-chinese文件夹中，改名为pytorch_model
+链接：https://pan.baidu.com/s/1WRvzm8UitfvnArDU-DNGQQ?pwd=4fn0 
+提取码：4fn0
+> fine-tunned model：下载后请放在ouput文件夹中，改名为pytorch_model。如若想重新训练，请在命令行中运行上述命令，或引入subprocess包在IDE中运行
+链接：https://pan.baidu.com/s/1iRLgOb6V9Qmx6tMURZRExw?pwd=18ez 
+提取码：18ez
+
 ### 运行方式
 请不要移动相关文件位置，在各文档读取过程中均使用相对路径
 若使用vscode出现路径报错问题，请修改部分相对路径或使用pycharm运行
@@ -42,7 +50,5 @@ nltk == 3.7
 tip：可能会出现卡顿，必要时可以连接vpn
 
 
-### 初始大模型及fine-tunned模型下载
-initial model：
-fine-tunned model：
+
 
