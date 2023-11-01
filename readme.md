@@ -53,9 +53,11 @@ nltk == 3.7
 ### 网页展示
 **以下为使用fine-tunning后模型，对单个金融资讯从Web端调用模型进行预测并展示**
 
-1. 请运行Flask_Web中的api.py，复制终端给出的网址到浏览器中即可呈现页面
+**1.** 请运行Flask_Web中的api.py，复制终端给出的网址到浏览器中即可呈现页面
 
 tip：可能会出现卡顿，必要时可以连接vpn
-2. 网站部分截图如下，具体演示视频课件readme_image中
+
+
+**2.** 网站部分截图如下，具体演示视频课件readme_image中
 ![](https://github.com/JerrySiRi/Fink_NER_ED_Web/blob/main/readme_image/1.png)
 ![](https://github.com/JerrySiRi/Fink_NER_ED_Web/blob/main/readme_image/2.png)
