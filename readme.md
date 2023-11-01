@@ -57,5 +57,5 @@ nltk == 3.7
 
 tip：可能会出现卡顿，必要时可以连接vpn
 2. 网站部分截图如下，具体演示视频课件readme_image中
-![](../Flink/readme_image/1.png)
-![](../Flink/readme_image/2.png)
+![](https://github.com/JerrySiRi/Fink_NER_ED_Web/blob/main/readme_image/1.png)
+![](https://github.com/JerrySiRi/Fink_NER_ED_Web/blob/main/readme_image/2.png)
