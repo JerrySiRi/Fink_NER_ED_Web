@@ -61,3 +61,6 @@ tip：可能会出现卡顿，必要时可以连接vpn
 **2.** 网站部分截图如下，具体演示视频课件readme_image中
 ![](https://github.com/JerrySiRi/Fink_NER_ED_Web/blob/main/readme_image/1.png)
 ![](https://github.com/JerrySiRi/Fink_NER_ED_Web/blob/main/readme_image/2.png)
+
+![](https://github.com/JerrySiRi/Fink_NER_ED_Web/blob/main/readme_image/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
+
