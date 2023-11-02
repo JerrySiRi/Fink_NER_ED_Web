@@ -1,6 +1,7 @@
 # 南京大学“AI+”大学生创新技能挑战赛
 # 实体识别模型：BERT(wwm)-BiLSTM-CRF 
 # 实体消歧模型：Jaro_distance-Embedding match
+Last Update code：[![github](https://img.shields.io/badge/time-2023--10-18cf)](https://github.com/time-2023--10-18cf)
 
 ### 1. 运行环境
 
