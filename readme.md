@@ -58,8 +58,8 @@ nltk == 3.7
 
 tip：可能会出现卡顿，必要时可以连接vpn
 
-<<<<<<< HEAD
-2. 网站部分截图如下，具体演示视频课件readme_image中
+
+1. 网站部分截图如下，具体演示视频课件readme_image中
 ![](../Flink/readme_image/1.png)
 ![](../Flink/readme_image/2.png)
 =======
