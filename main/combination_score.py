@@ -6,7 +6,9 @@ import pandas as pd
 # (sto\org名称（bert的偏好）, 在sto中相似度最高的id , 在sto中相似度最高的得分 , 在org中相似度最高的id , 在org中相似度最高的得分 )
 # bert的偏好在字典的键之中
 
+##
 # 
+#   
 predict_dir ="../result.pkl"# result中的是预测的，已经到数据集中匹配过了，是当前的entities name
 real_dir = "../dev_label.pkl"
 

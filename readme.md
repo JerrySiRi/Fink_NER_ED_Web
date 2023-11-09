@@ -56,6 +56,7 @@ nltk == 3.7
 1. 请运行Flask_Web中的api.py，复制终端给出的网址到浏览器中即可呈现页面
 
 tip：可能会出现卡顿，必要时可以连接vpn
+
 2. 网站部分截图如下，具体演示视频课件readme_image中
 ![](../Flink/readme_image/1.png)
 ![](../Flink/readme_image/2.png)
